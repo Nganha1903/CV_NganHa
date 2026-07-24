@@ -12,7 +12,7 @@ export const initialCVData: CVData = {
     titles: ['Sinh viên CNTT (Kỹ Nghệ Phần Mềm)'],
 
   
-    avatarUrl: '/anh.jpg',
+    avatarUrl: `${import.meta.env.BASE_URL}anh.jpg`,
   },
   aboutMe:
     'Tôi là sinh viên ngành Công nghệ Thông tin có nền tảng về Kế toán doanh nghiệp. Tôi yêu thích Business Analyst, thiết kế website, công nghệ và truyền thông số. Tôi có kiến thức cơ bản về xây dựng website, sử dụng Canva, CapCut, Microsoft Office và các công cụ AI phục vụ học tập và công việc. Tôi luôn chủ động học hỏi, có tinh thần trách nhiệm và mong muốn phát triển trong môi trường làm việc chuyên nghiệp.',
