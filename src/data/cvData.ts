@@ -10,14 +10,9 @@ export const initialCVData: CVData = {
     address: 'Hai Bà Trưng, Hà Nội',
     hometown: 'Hưng Yên',
     titles: ['Sinh viên CNTT (Kỹ Nghệ Phần Mềm)'],
-    // ==================================================================================
-    // 📸 HƯỚNG DẪN THAY ẢNH ĐẠI DIỆN (AVATAR) TRONG CODE:
-    // - Cách 1: Dán đường dẫn URL ảnh trên mạng (ví dụ: 'https://i.imgur.com/example.jpg')
-    // - Cách 2: Đặt file ảnh của bạn vào thư mục 'public/' (ví dụ: 'public/my-avatar.png')
-    //           rồi ghi đường dẫn tương ứng: '/my-avatar.png'
-    // - Cách 3: Bấm nút "Chỉnh sửa" ở góc dưới bên phải giao diện web để tải ảnh trực tiếp từ máy tính!
-    // ==================================================================================
-    avatarUrl: '/https://cdn.phototourl.com/free/2026-07-24-b204e834-0ad8-40e5-a06b-06bb8d540eaf.jpg',
+
+  
+    avatarUrl: '/anh.jpg',
   },
   aboutMe:
     'Tôi là sinh viên ngành Công nghệ Thông tin có nền tảng về Kế toán doanh nghiệp. Tôi yêu thích Business Analyst, thiết kế website, công nghệ và truyền thông số. Tôi có kiến thức cơ bản về xây dựng website, sử dụng Canva, CapCut, Microsoft Office và các công cụ AI phục vụ học tập và công việc. Tôi luôn chủ động học hỏi, có tinh thần trách nhiệm và mong muốn phát triển trong môi trường làm việc chuyên nghiệp.',
